@@ -16,4 +16,4 @@ This project is part of the Master Data Science program and focuses on IoT appli
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/IOT_Project_2.git
+   git clone https://github.com/AIT-LAHCEN-REDOUAN/IOT_Project_2.git
